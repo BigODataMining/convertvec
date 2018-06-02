@@ -1,3 +1,5 @@
+#include "stdafx.h"
+
 // Code to convert word2vec vectors between text and binary format
 // Created by Marek Rei
 
